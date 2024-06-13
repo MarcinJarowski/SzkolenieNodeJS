@@ -1,0 +1,7 @@
+1.front - formularz html wysyłający dane do serwera: 
+        inputy: Imie, Nazwisko, Wiek, Miasto
+2.skrypt js wysyłający dane z formularza za pomocą fetch na ścieżkę /users
+3.serwer obsługujący żądanie POST, wyświetlający przychodzące dane z formularza w konsoli
+4.serwer tworzący odpowiedni katolog i plik na serwerze, obsługa błędów BE-FE
+5.serwer obsługujący zapytanie GET, wysyłający listę plików w danym folderze w formacie JSON
+front - z poziomu przeglądarki możemy wyświetlić listę plików na serwerze per miasto
